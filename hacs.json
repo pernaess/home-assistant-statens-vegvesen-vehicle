@@ -1,0 +1,7 @@
+{
+  "name": "Statens Vegvesen Vehicle",
+  "content_in_root": false,
+  "domains": ["statens_vegvesen_vehicle"],
+  "country": ["NO"],
+  "iot_class": "cloud_polling"
+}

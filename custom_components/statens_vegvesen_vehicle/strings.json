@@ -1,0 +1,14 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Vegvesen Vehicle",
+        "description": "Enter license plate and API key",
+        "data": {
+          "license_plate": "License plate",
+          "api_key": "API key"
+        }
+      }
+    }
+  }
+}

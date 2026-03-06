@@ -1,0 +1,12 @@
+{
+  "domain": "statens_vegvesen_vehicle",
+  "name": "Statens Vegvesen Vehicle",
+  "version": "1.0.0",
+  "documentation": "https://github.com/pernaess/ha-statens-vegvesen",
+  "issue_tracker": "https://github.com/pernaess/ha-statens-vegvesen/issues",
+  "codeowners": ["@pernaess"],
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "homeassistant": "2024.6.0",
+  "requirements": []
+}
