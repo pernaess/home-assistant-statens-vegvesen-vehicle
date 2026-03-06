@@ -1,3 +1,4 @@
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
 # Statens Vegvesen Vehicle – Home Assistant Integration
 
 A Home Assistant custom integration that retrieves vehicle information from the Statens Vegvesen Autosys API.
