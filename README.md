@@ -40,7 +40,7 @@ Official website:
 https://www.vegvesen.no
 
 API documentation:
-https://autosys-kjoretoy-api.atlas.vegvesen.no/
+[https://autosys-kjoretoy-api.atlas.vegvesen.no/](https://autosys-kjoretoy-api.atlas.vegvesen.no/api-ui/index-api.html?apiId=enkeltoppslag)
 
 ---
 
