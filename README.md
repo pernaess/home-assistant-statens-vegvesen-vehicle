@@ -206,7 +206,7 @@ No personal information is collected, stored, or transmitted by this integration
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. The software is provided "as is", without warranty of any kind.
 
 See the LICENSE file for details.
 
