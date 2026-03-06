@@ -68,6 +68,9 @@ After installation, add the integration through the Home Assistant UI.
 
 You will be prompted to enter a Norwegian vehicle registration number and API key.
 
+The API key is provided by Statens Vegvesen services: 
+[Staten vegvesen API key])https://www.vegvesen.no/fag/teknologi/apne-data/et-utvalg-apne-data/api-for-tekniske-kjoretoyopplysninger/)
+
 ![Vehicle entry prompt](image.png)
 
 Multiple vehicles are supported.
